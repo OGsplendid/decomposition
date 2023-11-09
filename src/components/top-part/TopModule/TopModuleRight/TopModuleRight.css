@@ -1,0 +1,6 @@
+.top-right-container {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+    width: 20%;
+}

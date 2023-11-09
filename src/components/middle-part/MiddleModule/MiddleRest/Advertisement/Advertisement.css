@@ -1,0 +1,10 @@
+.advertisement {
+    display: flex;
+    place-content: center;
+    place-items: center;
+    width: 85%;
+    height: 100px;
+    background-color: white;
+    color: black;
+    margin-top: 15px;
+}

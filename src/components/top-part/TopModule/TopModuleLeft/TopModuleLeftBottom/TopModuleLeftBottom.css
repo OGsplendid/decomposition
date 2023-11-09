@@ -1,0 +1,12 @@
+.items {
+    display: flex;
+    margin-top: 15px;
+}
+
+.item-name:nth-child(n+2) {
+    margin-left: 15px;
+}
+
+.item-value, .item-change {
+    margin-left: 5px;
+}
